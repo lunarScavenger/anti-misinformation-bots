@@ -1,6 +1,6 @@
 # Reddit Bot
 * Written in Python
-* Uses PRAW
+* Uses [PRAW](https://github.com/praw-dev/praw)
 
 ## Status
 Failing
